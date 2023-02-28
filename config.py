@@ -1,4 +1,4 @@
 # Enter email and password of your YouTube account below:
 
-email = "...."
-password = "....."
+email = "Telegramjob05@gmail.com"
+password = "Tjblings&1000"
