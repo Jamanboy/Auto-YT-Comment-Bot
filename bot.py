@@ -135,7 +135,17 @@ def comment_page(driver, urls, comment):
 def random_comment():
     # You can edit these lines if you want to add more comments===================================
     comments = [
-        'Loved it',
+        'Hello everyone! My name is Frank Ceaser, and I am here to tell you about an exciting investment opportunity in the world of crypto currencies. If you're interested in making some serious money, then you need to pay attention to what I'm about to say.
+
+Crypto currencies are the future of money, and I am an expert in this field. I have been studying and investing in crypto currencies for years, and I have seen firsthand just how much potential there is for growth and profit.
+
+If you're looking for a reliable and experienced partner to help you navigate the world of crypto currency investing, then look no further than me. With my knowledge and expertise, I can help you make informed decisions and get the most out of your investments.
+
+So why should you invest with me? Well, for starters, I have a proven track record of success. I have helped countless people just like you make money in the world of crypto currencies, and I am confident that I can do the same for you.
+
+But more than that, I am passionate about what I do. I believe in the power of crypto currencies to transform the world of finance, and I am committed to helping as many people as possible benefit from this revolution.
+
+So if you're ready to take the next step and start investing in crypto currencies, then don't hesitate to reach out to me. You can contact me directly on WhatsApp at +17755813857. I look forward to hearing from you and helping you achieve your financial goals.',
         'Hello',
         '-loved it-',
         '_good job_'
